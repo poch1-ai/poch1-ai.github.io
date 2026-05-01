@@ -3,7 +3,6 @@ project:
   output-dir: docs
   
 # ~ additional metadata excluded for brevity ~
-
 website:
   title: "poch1-ai.github.io"
   navbar:
