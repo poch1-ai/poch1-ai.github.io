@@ -5,7 +5,7 @@ project:
 # ~ additional metadata excluded for brevity ~
 
 website:
-  title: "sokmean.github.io"
+  title: "poch1-ai.github.io"
   navbar:
     left:
       - href: index.qmd
