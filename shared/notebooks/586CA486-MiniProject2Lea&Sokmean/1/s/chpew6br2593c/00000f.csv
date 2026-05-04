@@ -1,0 +1,6 @@
+"0","vars_meta <- fromJSON(""https://api.census.gov/data/2023/cps/volunteer/sep/variables.json"")"
+"0","var_names <- names(vars_meta$variables) # Get all variable names"
+"0","var_lookup <- tibble("
+"0","  variable = var_names,"
+"0","  label = map_chr(vars_meta$variables, ~ .x$label %||% NA_character_)"
+"0",")"

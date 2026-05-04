@@ -1,0 +1,6 @@
+"0","library(RMariaDB)"
+"0","con <- dbConnect("
+"0","  MariaDB(), host = ""mdb.stolaf.edu"","
+"0","  user = ""ruser"", password = ""ruserpass"", "
+"0","  dbname = ""flight_data"""
+"0",")"

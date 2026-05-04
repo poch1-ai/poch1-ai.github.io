@@ -1,0 +1,8 @@
+"0","problem_penguins <- penguins |>"
+"0","  slice(1:100) |>"
+"0","  mutate("
+"0","    bill_length_mm = as.character(bill_length_mm),"
+"0","    bill_length_mm = if_else(row_number() == 42, ""missing"", bill_length_mm)"
+"0","  )"
+"0",""
+"0","vis_guess(problem_penguins)"

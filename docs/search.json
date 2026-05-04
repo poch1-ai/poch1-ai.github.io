@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "Text Analysis",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n—. “The Fed - Meeting Calendars and Information.” Board of Governors of the Federal Reserve System,https://www.federalreserve.gov/monetarypolicy/fomc.htm. Accessed 2 Mar. 2026.↩︎"
+  },
+  {
+    "objectID": "motivation.html",
+    "href": "motivation.html",
+    "title": "Motivation",
     "section": "",
-    "text": "About this site"
+    "text": "Thank you so much for exploring my webpage! On this tap, I will show you my motivations for this project.\n\n\n\nThis is my niece. Her name is Tina.\nWhat you should know about her:\n\nStrength: Has nice hair,brows and lashes\nWeakness: Always has a mission to ask 15 question per minute, especially the “Auntie, have you eaten?” question\n\n\n\nThis is my nephew. His name is Mesu.\nHere is what you should know about him:\n\nStrength: Has nice teeth\nWeakness: calls me at 2am and then complains to my mom by saying that I never pick up his call\n\n\n\n\nHave a nice day!"
+  },
+  {
+    "objectID": "map.html",
+    "href": "map.html",
+    "title": "Map",
+    "section": "",
+    "text": "The states dataset in the poliscidata package contains 135 variables on each of the 50 US states. See here for more detail.\nIn this tab, I will create a two meaningful choropleth plots, one using a numeric variable and one using a categorical variable from poliscidata::states. You will see two versions of each plot: a static plot using the maps package and ggplot(), and an interactive plot using the sf package and leaflet(). Finally, I will write a sentence or two describing what I learn from each plot.\n\nNumeric variable (static plot):\n\n\n\n\n\n\n\n\n\nMotor vehicle fatality rates vary significantly across states, with higher rates concentrated in the South and some Mountain West states. In contrast, states in the Northeast and on the West Coast tend to have lower fatality rates. This pattern may reflect differences in population density, road conditions, and driving behavior, as rural areas often experience higher speeds and longer emergency response times.\n\n\nNumeric variable (interactive plot):\n\n\n\n\n\n\nThe interactive feature allows users to hover over each state to view precise fatality rates, providing more detailed insight than the static map.\n\n\nCategorical variable (static plot)\n\n\n\n\n\n\n\n\n\nThis map shows which political party each state tends to support. The pattern shows that many coastal states lean Democratic, while many states in the South, Midwest, and Mountain West lean Republican.\n\n\nCategorical variable (interactive plot):\n\n\n\n\n\n\nBy hovering over the states, users can see the exact category for each state, making it easier to compare regional political patterns across the country."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "poch1-ai.github.io",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hey! this is Sokmean\nThank you for stopping by! I was born and raised in Cambodia. I moved to Singapore in 2019 for school. Right now, I’m a student at St. Olaf College. I’m doing Quantitative Economics and Statistics doubled majors. This is my first time building a website and I will display my work in data science 2.\nFun Facts About Me\n\nData Science only starts to make sense to me at 2am\nI shop every time I submit a data science’s project because I truly deserve it ( this one too)\nMy lashes will be on whenever I’m stressed, the longer the lashes, the harder time I’m going through. Sometimes I’m so close to fly with them too\nI love love, and you should too"
   }
 ]
